@@ -1,5 +1,9 @@
 # YC-MART
 YC-MART is flipkart clone with complete backend and frontend        https://ycmartexploreplus.herokuapp.com/
+
+![Screenshot (1252)](https://user-images.githubusercontent.com/80738479/148540975-00e3c693-79c4-4158-bffd-062512ef3d7e.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
